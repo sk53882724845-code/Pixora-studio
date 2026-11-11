@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the final public sitemap URL after the production domain is confirmed.
